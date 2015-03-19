@@ -4,7 +4,8 @@ yearly goals
 goals for the end of 2015
 --
  * [ ] finish thesis
- * [ ] build ihfm
+ * [ ] build IHFM
+ * [ ] sex monad song
  
 
 goals for the end of 2014
