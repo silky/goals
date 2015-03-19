@@ -3,7 +3,8 @@ yearly goals
 
 goals for the end of 2015
 --
- * not sure yet
+ * [ ] finish thesis
+ * [ ] build ihfm
  
 
 goals for the end of 2014
