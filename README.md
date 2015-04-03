@@ -1,5 +1,11 @@
-yearly goals
+goals
 ==
+
+goals for 6-Apr-2015 to 12-Apr-2015
+--
+ * [ ] 15 pages of thesis
+ * [ ] graph theory assignment
+
 
 goals for the end of 2015
 --
@@ -7,11 +13,3 @@ goals for the end of 2015
  * [ ] build IHFM
  * [ ] sex monad song
  
-
-goals for the end of 2014
---
- * [ ] finish thesis.
- * [ ] become awesome at mathematica programming; publish several notebooks on papers.
- * [ ] understand completely this black hole firewall business.
- * [x] have a big list of open questions. [done](https://github.com/silky/research_notes/issues)
- * [ ] finish the new version of complexity zoo.
