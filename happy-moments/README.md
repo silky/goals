@@ -1,6 +1,14 @@
 Happy Moments
 ==
 
+04-Apr-2015
+---
+
+I had a nice morning, deciding to just relax about everything. I worked out
+a minor calculation that I'd been stuck on, I realised a nice place to go for
+dinner with Jay, and it's sunny and I'm feeling supported and loved.
+
+
 03-Apr-2015
 ---
 
