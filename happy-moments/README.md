@@ -1,6 +1,16 @@
 Happy Moments
 ==
 
+05-Apr-2015
+---
+
+I had a great morning and really nice hot cross buns. Also was reminded about
+playing piano, and was happy to observe that we have one at home!
+
+I also started reading the "I Am A Strange Loop" book, and am excited about
+it.
+
+
 04-Apr-2015
 ---
 
