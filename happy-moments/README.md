@@ -1,6 +1,21 @@
 Happy Moments
 ==
 
+07-Apr-2015
+---
+
+Nice birthday dinner with Marianne, also good to have some feedback from
+supervisors on my thesis.
+
+
+06-Apr-2015
+----
+
+Really enjoyable dinner with some friends; I cooked and it was a very
+fun experience! I learned that cooking for 8 is not really a one-person
+job, or at least you need to be really organised.
+
+
 05-Apr-2015
 ---
 
