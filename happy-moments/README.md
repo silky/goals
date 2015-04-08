@@ -1,6 +1,14 @@
 Happy Moments
 ==
 
+
+08-Apr-2015
+---
+
+Put together the [stupid shit no-one needs and terrible ideas](https://stupidhackathonmelbourne.github.io/) website. cooked myself dinner again,
+which was nice.
+
+
 07-Apr-2015
 ---
 
