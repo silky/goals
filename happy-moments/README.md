@@ -1,6 +1,12 @@
 Happy Moments
 ==
 
+09-Apr-2015
+---
+
+Today it's simply that the "topological calculus" is explained nicely
+in the [Fujii paper](http://arxiv.org/abs/1504.01444).
+
 
 08-Apr-2015
 ---
