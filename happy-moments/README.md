@@ -1,6 +1,19 @@
 Happy Moments
 ==
 
+11-Apr-2015
+---
+
+Understood something about MBQC and Fault Tolerance.
+
+
+10-Apr-2015
+---
+
+I had a really nice evening, and I was happy that even though my computer kind
+of died I had systems in place that let me continue work.
+
+
 09-Apr-2015
 ---
 
