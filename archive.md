@@ -1,6 +1,12 @@
 archive of yearly goals
 ==
 
+goals for 6-Apr-2015 to 12-Apr-2015
+--
+ * [ ] 15 pages of thesis (currently at 30).
+ * [x] graph theory assignment
+
+
 goals for the end of 2014
 --
  * [ ] finish thesis.
