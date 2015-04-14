@@ -1,6 +1,11 @@
 Happy Moments
 ==
 
+13-Apr-2015
+---
+
+Had fun with pictures in the topological calculus. My books arrived.
+
 
 12-Apr-2015
 ---
