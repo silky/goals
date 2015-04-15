@@ -1,6 +1,13 @@
 Happy Moments
 ==
 
+15-Apr-2015
+---
+
+Understood something about how to apply the rules in the topological
+calculus, so that's nice.
+
+
 13-Apr-2015
 ---
 
