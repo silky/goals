@@ -2,8 +2,9 @@ Happy Moments
 ==
 
 Editors note: I've clearly stopped updating this everyday as:
-1. It's a bit personal
-2. it feels very contrived
+
+  1. It's a bit personal
+  2. it feels very contrived
 
 
 
