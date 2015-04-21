@@ -1,9 +1,9 @@
 goals
 ==
 
-goals for 13-Apr-2015 to 20-Apr-2015
+goals for 20-Apr-2015 to 27-Apr-2015
 --
- * [ ] 20 pages of thesis (currently at 40).
+ * [ ] finish final structure of thesis, review with supervisors. 
 
 
 goals for the end of 2015

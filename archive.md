@@ -1,6 +1,11 @@
 archive of yearly goals
 ==
 
+goals for 13-Apr-2015 to 20-Apr-2015
+--
+ * [ ] 20 pages of thesis (currently at 40).
+
+
 goals for 6-Apr-2015 to 12-Apr-2015
 --
  * [ ] 15 pages of thesis (currently at 30).
